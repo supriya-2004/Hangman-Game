@@ -1,4 +1,4 @@
-### 🛠️ Tech Stack & Functionality
+# 🛠️ Tech Stack & Functionality
 
 ## **HTML**  
   - Used to create the structure of the game layout, including text containers, headers, and sections for displaying guesses, letters, and results.
